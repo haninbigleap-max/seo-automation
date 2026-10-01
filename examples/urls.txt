@@ -1,0 +1,8 @@
+# One URL per line. Lines starting with # are ignored.
+https://example.com/
+https://example.com/about/
+https://example.com/en-ae/
+https://example.com/ar-ae/
+https://example.com/en-sa/
+https://example.com/ar-sa/
+http://example.com/old-page/
